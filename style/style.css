@@ -42,6 +42,9 @@
     margin-left: 330px;
     margin-top: 30px;
     border: 0px;
+    color:#FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
 }
 
 /* donet section */
@@ -81,6 +84,32 @@ margin-bottom: 50px;
     border: 2px solid #FF5959;
     border-radius: 5px;
 }
+
+.amount{
+    width: 400px;
+    margin: auto;
+}
+.amount p{
+    margin-left: 120px;
+    margin-bottom: 10px;
+    color: #424242;
+}
+hr{
+    margin-bottom: 20px;
+}
+.d-button2{
+    width: 160px;
+    height: 56px;
+    left: 640px;
+    top: 438px;
+    background: #FF5959;
+    border-radius: 5px;
+    margin-left: 117px;
+    border: 0px;
+    color:#FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+}  
 
 
 
