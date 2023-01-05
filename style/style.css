@@ -153,8 +153,42 @@ text-align: center;
 .click{
     background-color: #4F9DA61A;
 }
-
-
+.description-us{
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-around;
+}
+.htc-btn{
+    width: 160px;
+    height: 56px;
+    background: #FF5959;
+    border-radius: 5px;
+    border: 0px;
+    color:#FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.describe-img img{
+    width: 456px;
+    height: 477px;
+}
+.describe-left{
+    width: 400px;
+    /* background: #FF5959; */
+    display: inline;
+    margin-left: 50px;
+    margin-top: 45px;
+}
+.describe-header{
+    margin-left: 10px;
+    margin-top: 45px;
+}
+h1.describe-header {
+    font-weight: 700;
+    margin-bottom: 40px;
+    font-size: 35px;
+}
 
 
 
