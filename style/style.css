@@ -14,9 +14,7 @@
     position: absolute;
     margin-top: 174px;
 }
-.header-section{
-   
-}
+
 .header-title{
     font-weight: 700;
     font-size: 65px;
@@ -45,3 +43,62 @@
     margin-top: 30px;
     border: 0px;
 }
+
+/* donet section */
+.donate-div{
+    width: 700px;
+    text-align: center;
+    margin: auto;
+
+}
+.donate-title{
+font-size: 40px;
+margin-top: 100px;
+font-weight: 600;
+}
+.donate-description{
+margin-top: 30px;
+font-size: 24px;
+font-weight: 400;
+color: rgb(50, 50, 50);
+margin-bottom: 50px;
+}
+.donate-button{
+    width: 970px;
+    margin: auto;
+}
+.donate-button button{
+    padding: 35px 40px;
+    margin: 20px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 800;
+   color:#424242;
+}
+.donate-button .button-2{
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
