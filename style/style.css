@@ -110,6 +110,51 @@ hr{
     font-weight: 700;
     font-size: 20px;
 }  
+.donate-plan{
+    width: 800px;
+    margin: auto;
+}
+.donate-plan-title{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 100px;
+    font-weight: 600;
+}
+.donate-plan-description{
+margin-top: 30px;
+font-size: 24px;
+font-weight: 400;
+color: rgb(50, 50, 50);
+margin-bottom: 50px;
+text-align: center;
+}
+.plan-div{
+    display: flex;
+    gap: 10px;
+}
+.plan-content{
+    width: 232px;
+    background-color: aquamarine;
+    margin-left: 55px;
+    padding: 75px 78px;
+   background-color:#FF59591A;
+}
+.plean-header{
+    margin-top: 18px;
+    margin-bottom: 24px;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.plan-header-description{
+    margin-top: -15px;
+    color: #504d4d;
+}
+.click{
+    background-color: #4F9DA61A;
+}
+
+
 
 
 
