@@ -189,7 +189,33 @@ h1.describe-header {
     margin-bottom: 40px;
     font-size: 35px;
 }
+.hp2-title{
+    width: 400px;
+    /* background: #FF5959; */
+    display: inline;
+    margin-right: 50px;
+    margin-top: 45px;
+    font-weight: 700; 
+    color: black;
+}
+.help-people2-div{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-left: -140px;
 
+
+}
+.help-peole2 img{
+    width: 450px;
+    height: 477px;
+    margin-left: 150px;
+}
+.hp2-description{
+    width: 400px;
+    margin-top: 90px;
+    color:#424242;
+}
 
 
 
