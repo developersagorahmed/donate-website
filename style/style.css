@@ -217,10 +217,55 @@ h1.describe-header {
     color:#424242;
 }
 
+.input-fild{
+    justify-content: center;
+    width: 400px;
+    height: 120px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    background:#FF59591A;
+    margin-bottom: 50px;
+
+}
+
+input[type="email"] {
+    width: 165px;
+    height: 33px;
+    /* margin-right:; */
+    border: none;
+    background-color:#D9D9D9;
+}
+button#input-btn {
+    width: 100px;
+    height: 33px;
+    background: #ff5959;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding-left: 5px;
+}
+.footer-div{
+width: 1440px;
+height: 177px;
+align-items: center;
+display: grid;
+justify-content: center;
+background: #0B0D17;padding-top: 20px;
+}
 
 
+.footer-title{
+color: #ff5959;
+font-family: Lobster;
 
-
+}
+.footer-description{
+/* color: white; */
+color: white;
+margin-bottom: 68px;
+margin-left: 31px;
+}
 
 
 
